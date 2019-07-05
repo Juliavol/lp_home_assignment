@@ -19,7 +19,8 @@
       
 ## Usage
 ```
-git clone //insert repo here //
+git clone https://github.com/Juliavol/lp_home_assignment.git
+cd lp_home_assignment
 docker-compose up -d
 ```
 All of the components can be accessed via:
