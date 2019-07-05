@@ -26,8 +26,8 @@ docker-compose up -d
 All of the components can be accessed via:
 * [randomFloat](http://127.0.0.1:5000/randomFloat)
 * [randomInt](http://127.0.0.1:5000/randomInt)
-* [prometheus](127.0.0.1:9090)
-* [grafana](127.0.0.1:3000)
+* [prometheus](http://127.0.0.1:9090)
+* [grafana](http://127.0.0.1:3000)
 
 
 
